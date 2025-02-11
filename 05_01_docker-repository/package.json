@@ -1,0 +1,8 @@
+{
+    "name": "docker-repository",
+    "version": "1.0.0",
+    "main": "app.js",
+    "dependencies": {
+        "http": "^0.0.1-security"
+    }
+}
